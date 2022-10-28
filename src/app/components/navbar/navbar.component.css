@@ -1,0 +1,8 @@
+.container-nav {
+  max-width: 360px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.375rem 1rem;
+}
+
